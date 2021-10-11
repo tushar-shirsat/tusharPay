@@ -142,10 +142,10 @@ const Contact = () => {
                         />
                       </div>
                     </div>
-                    <div class="form-check form-checkbox-style">
+                    <div className="form-check form-checkbox-style">
                       <input
                         type="checkbox"
-                        class="form-check-input"
+                        className="form-check-input"
                         id="exampleCheck1"
                       />
                       <label
